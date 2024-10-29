@@ -1,0 +1,202 @@
+[
+    {
+        "Inicio": 0.00,
+        "Duracion": 9.08,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 9.08,
+        "Duracion": 0.13,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 9.216666667,
+        "Duracion": 0.5833333333,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 9.8,
+        "Duracion": 0.2333333333,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 10.03333333,
+        "Duracion": 0.25,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 10.28333333,
+        "Duracion": 0.6666666667,
+        "Categoria": "Ogro"
+    },
+    {
+        "Inicio": 10.95,
+        "Duracion": 1.22,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 12.17,
+        "Duracion": 1.05,
+        "Categoria": "Musica"
+    },
+    {
+        "Inicio": 13.21666667,
+        "Duracion": 1.5,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 14.71666667,
+        "Duracion": 2.233333333,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 16.95,
+        "Duracion": 2.25,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 19.2,
+        "Duracion": 0.2666666667,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 19.46666667,
+        "Duracion": 1.233333333,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 20.7,
+        "Duracion": 1.716666667,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 22.41666667,
+        "Duracion": 1.033333333,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 23.45,
+        "Duracion": 0.5666666667,
+        "Categoria": "Ogro"
+    },
+    {
+        "Inicio": 24.01666667,
+        "Duracion": 6.933333333,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 30.95,
+        "Duracion": 4.083333333,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 35.03333333,
+        "Duracion": 1.733333333,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 36.76666667,
+        "Duracion": 8.433333333,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 45.2,
+        "Duracion": 0.2333333333,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 45.43333333,
+        "Duracion": 1.7,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 47.13333333,
+        "Duracion": 2.583333333,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 49.71666667,
+        "Duracion": 0.4666666667,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 50.18333333,
+        "Duracion": 1.366666667,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 51.55,
+        "Duracion": 2.266666667,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 53.81666667,
+        "Duracion": 0.9833333333,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 54.8,
+        "Duracion": 1.3,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 56.1,
+        "Duracion": 0.1666666667,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 56.26666667,
+        "Duracion": 3.55,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 59.81666667,
+        "Duracion": 1.083333333,
+        "Categoria": "Musica"
+    },
+    {
+        "Inicio": 60.9,
+        "Duracion": 2.566666667,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 63.46666667,
+        "Duracion": 0.5833333333,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 64.05,
+        "Duracion": 2.633333333,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 66.68333333,
+        "Duracion": 2.4,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 69.08333333,
+        "Duracion": 0.1833333333,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 69.26666667,
+        "Duracion": 1.533333333,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 70.8,
+        "Duracion": 0.2166666667,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 71.01666667,
+        "Duracion": 5.666666667,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 76.68333333,
+        "Duracion": 16.31666667,
+        "Categoria": "Otro"
+    }
+]

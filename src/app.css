@@ -1,0 +1,25 @@
+/* Estilos globales */
+body{
+    background-color: #FAFFFA;
+}
+header{
+   display: flex;
+    align-items: center;
+    background-color: #E1EE7D;
+    height: 100px;
+    justify-content: center;
+    /* margin-right: 10px; */
+    color: rgb(120, 127, 32);
+
+}
+footer {
+    background-color: #E1EE7D;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: rgb(120, 127, 32);
+
+}
+html{
+    scroll-behavior: smooth;
+}

@@ -1,0 +1,213 @@
+[
+    {
+        "Inicio": 0.00,
+        "Duracion": 6.30,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 6.30,
+        "Duracion": 1.45,
+        "Categoria": "Musica"
+    },
+    {
+        "Inicio": 8.15,
+        "Duracion": 2.35,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 10.50,
+        "Duracion": 1.16,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 11.26,
+        "Duracion": 5.04,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 16.30,
+        "Duracion": 1.35,
+        "Categoria": "Musica"
+    },
+    {
+        "Inicio": 17.25,
+        "Duracion": 2.16,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 19.01,
+        "Duracion": 1.01,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 20.02,
+        "Duracion": 1.07,
+        "Categoria": "Musica"
+    },
+    {
+        "Inicio": 21.09,
+        "Duracion": 1.01,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 22.10,
+        "Duracion": 3.01,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 25.11,
+        "Duracion": 2.54,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 28.05,
+        "Duracion": 1.56,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 30.01,
+        "Duracion": 5.51,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 35.52,
+        "Duracion": 2.02,
+        "Categoria": "Otro"
+    },
+
+    {
+        "Inicio": 37.54,
+        "Duracion": 1.07,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 39.01,
+        "Duracion": 0.19,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 39.20,
+        "Duracion": 0.38,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 39.58,
+        "Duracion": 0.20,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 40.18,
+        "Duracion": 3.50,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 44.08,
+        "Duracion": 0.53,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 45.01,
+        "Duracion": 2.55,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 47.56,
+        "Duracion": 1.24,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 49.20,
+        "Duracion": 0.58,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 50.18,
+        "Duracion": 3.18,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 53.36,
+        "Duracion": 1.36,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 55.12,
+        "Duracion": 3.53,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 59.05,
+        "Duracion": 9.25,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 68.30,
+        "Duracion": 1.54,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 70.24,
+        "Duracion": 1.16,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 71.40,
+        "Duracion": 0.21,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 72.01,
+        "Duracion": 5.15,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 77.16,
+        "Duracion": 1.31,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 78.47,
+        "Duracion": 1.20,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 80.07,
+        "Duracion": 3.45,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 83.52,
+        "Duracion": 4.11,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 88.03,
+        "Duracion": 1.13,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 89.16,
+        "Duracion": 1.43,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 90.59,
+        "Duracion": 1.02,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 92.01,
+        "Duracion": 1.02,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 93.03,
+        "Duracion": 0.32,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 93.35,
+        "Duracion": 8.25,
+        "Categoria": "Otro"
+    }
+]

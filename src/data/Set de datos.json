@@ -1,0 +1,33 @@
+[
+    {
+        "Pelicula": "Shrek",
+        "Anio": "2001",
+        "Duracion": 89
+    },
+    {
+        "Pelicula": "Shrek 2",
+        "Anio": "2004",
+        "Duracion":93
+    },
+    {
+        "Pelicula": "Shrek tercero",
+        "Anio": "2007",
+        "Duracion": 93
+    },
+    {
+        "Pelicula": "Shrek para siempre",
+        "Anio": "2010",
+        "Duracion": 93
+    },
+    {
+        "Pelicula": "El Gato con botas",
+        "Anio": "2011",
+        "Duracion": 90
+    },
+    {
+        "Pelicula": "El Gato con botas: El último deseo",
+        "Anio": "2022",
+        "Duracion": 101.6
+    }
+]
+

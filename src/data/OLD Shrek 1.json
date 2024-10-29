@@ -1,0 +1,209 @@
+[
+    {
+        "Inicio": 0.0,
+        "Duracion": 2.14,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 2.14,
+        "Duracion": 1.35,
+        "Categoria": "Musica"
+    },
+    {
+        "Inicio": 3.49,
+        "Duracion": 0.11,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 4,
+        "Duracion": 0.11,
+        "Categoria": "Ogro"
+    },
+    {
+        "Inicio": 4.11,
+        "Duracion": 0.49,
+        "Categoria": "Otro"
+    },{
+        "Inicio": 5.0,
+        "Duracion": 1.21,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 6.21,
+        "Duracion": 2.02,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 8.23,
+        "Duracion": 0.37,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 9.0,
+        "Duracion": 1.28,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 10.28,
+        "Duracion": 0.52,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 11.2,
+        "Duracion": 1.57,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 13.17,
+        "Duracion": 2.41,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 15.58,
+        "Duracion": 1.05,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 17.03,
+        "Duracion": 0.27,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 17.3,
+        "Duracion": 0.51,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 18.21,
+        "Duracion": 1.4,
+        "Categoria": "Crossover"
+    },
+    {
+        "Inicio": 20.01,
+        "Duracion": 3.59,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 24.0,
+        "Duracion": 1.0,
+        "Categoria": "Musica"
+    },
+    {
+        "Inicio": 25.0,
+        "Duracion": 3.28,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 28.28,
+        "Duracion": 0.26,
+        "Categoria": "Musica"
+    },
+    {
+        "Inicio": 28.54,
+        "Duracion": 5.38,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 34.32,
+        "Duracion": 0.35,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 35.07,
+        "Duracion": 14.27,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 49.34,
+        "Duracion": 0.26,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 50.0,
+        "Duracion": 4.42,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 54.42,
+        "Duracion": 0.09,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 54.51,
+        "Duracion": 0.39,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 55.3,
+        "Duracion": 1.19,
+        "Categoria": "Musica"
+    },
+    {
+        "Inicio": 56.49,
+        "Duracion": 1.43,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 58.32,
+        "Duracion": 0.09,
+        "Categoria": "Ogro"
+    },
+    {
+        "Inicio": 58.41,
+        "Duracion": 2.49,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 61.3,
+        "Duracion": 0.43,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 62.13,
+        "Duracion": 7.05,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 69.18,
+        "Duracion": 2.02,
+        "Categoria": "Musica"
+    },
+    {
+        "Inicio": 71.2,
+        "Duracion": 4.24,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 75.44,
+        "Duracion": 0.16,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 76.0,
+        "Duracion": 3.08,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 79.08,
+        "Duracion": 0.12,
+        "Categoria": "Comico"
+    },
+    {
+        "Inicio": 79.2,
+        "Duracion": 1.4,
+        "Categoria": "Otro"
+    },
+    {
+        "Inicio": 81.0,
+        "Duracion": 1.58,
+        "Categoria": "Musica"
+    },
+    {
+        "Inicio": 81.58,
+        "Duracion": 7.02,
+        "Categoria": "Otro"
+    }
+    
+   
+
+]
