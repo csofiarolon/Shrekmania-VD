@@ -109,7 +109,7 @@
 <main>
   <div>
     <img
-      src="/public/images/Frame 2.png"
+      src="./images/Frame 2.png"
       alt="Logo"
       style="width:80%; margin-top:3%; justify-content:center;"
     />
